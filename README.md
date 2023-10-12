@@ -30,6 +30,10 @@ The 'Play Song' button on the navbar allows you to play a particular song of a s
 3. npm install
 4. npm run dev
 
+## Project Link
+[!Project](https://music-player-gamma-ten.vercel.app/)
+
+
 # Credits
 [Mandlenkosi George Marwanqana](https://www.linkedin.com/in/mandlenkosi-marwanqana-b08357218/)
 
