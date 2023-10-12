@@ -5,8 +5,8 @@ The sole purpose of this Music Player project was not to showcase the building o
 but to showcase how static feature might be a usefull addition to spotify's 'search to play a song' functionality
 
 ## Technologies uses
-1. ** Vue 3 **
-2. ** Tailwind CSS **
+1. **Vue 3**
+2. **Tailwind CSS**
 
 ## How it works
 The 'Play Song' button on the navbar allows you to play a particular song of a specific artist in the library, without the need to go to the 'search page' like spotify/deezer does.
