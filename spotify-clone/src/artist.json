@@ -1,0 +1,63 @@
+{
+    "name": "Yours Truly",
+    "albumCover": "https://upload.wikimedia.org/wikipedia/en/thumb/c/cb/Ariana_Grande_-_Yours_Truly.png/220px-Ariana_Grande_-_Yours_Truly.png",
+    "releaseYear": "2014",
+    "tracks": [
+        {
+            "id": 1,
+            "name": "Into You",
+            "path": "/songs/04. Ariana Grande - Into You_sample.mp3"
+        },
+        {
+            "id": 2,
+            "name": "Problem",
+            "path": "/songs/02. Ariana Grande; Iggy Azalea - Problem_sample.mp3"
+        },
+        {
+            "id": 3,
+            "name": "One Last Time",
+            "path": "/songs/03. Ariana Grande - One Last Time_sample.mp3"
+        },
+        {
+            "id": 4,
+            "name": "Why Try",
+            "path": "/songs/04. Ariana Grande - Why Try_sample.mp3"
+        },
+        {
+            "id": 5,
+            "name": "Break Free",
+            "path": "/songs/05. Ariana Grande; Zedd - Break Free_sample (1).mp3"
+        },
+        {
+            "id": 6,
+            "name": "Love Me Harder",
+            "path": "/songs/09. Ariana Grande; The Weeknd - Love Me Harder_sample (1).mp3"
+        },
+        {
+            "id": 7,
+            "name": "My Everything",
+            "path": "/songs/12. Ariana Grande - My Everything_sample.mp3"
+        },
+        {
+            "id": 8,
+            "name": "Bang Bang",
+            "path": "/songs/13. Jessie J; Ariana Grande; Nicki Minaj - Bang Bang_sample.mp3"
+        },
+        {
+            "id": 9,
+            "name": "Only 1",
+            "path": "/songs/14. Ariana Grande - Only 1_sample.mp3"
+        },
+        {
+            "id": 10,
+            "name": "Cadilac",
+            "path": "/songs/16. Ariana Grande - Cadillac Song_sample.mp3"
+        },
+        {
+            "id": 11,
+            "name": "Intro",
+            "path": "/songs/01. Ariana Grande - Intro_sample.mp3"
+        }
+    ]
+}
+
