@@ -4,7 +4,7 @@ This Music Player Web App focuses on adding a special, static (which can be dyna
 The sole purpose of this Music Player project was not to showcase the building of a Music Player/Clone like Spotify or Deezer,
 but to showcase how static feature might be a usefull addition to spotify's 'search to play a song' functionality
 
-## Technologies uses
+## Technologies used
 1. **Vue 3**
 2. **Tailwind CSS**
 
