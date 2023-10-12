@@ -31,7 +31,7 @@ The 'Play Song' button on the navbar allows you to play a particular song of a s
 4. npm run dev
 
 ## Project Link
-[!Project](https://music-player-gamma-ten.vercel.app/)
+[Project](https://music-player-gamma-ten.vercel.app/)
 
 
 # Credits
