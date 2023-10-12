@@ -22,7 +22,7 @@ The 'Play Song' button on the navbar allows you to play a particular song of a s
 2. Click 'Allow' to allow the browser to play the songs in the 'My Library'
 3. Command to play the song is as follows: 'music play (music name) by (artist)'
 
-**NOTE ONLY ARIANA GRANDE IS AVAILABLE IN THE LIBRARY. More dynamism will be added and more artists and songs will be available**
+**NOTE: ONLY ARIANA GRANDE IS AVAILABLE IN THE LIBRARY. More dynamism will be added and more artists and songs will be available**
 
 ## Installation & Setup
 1. git clone https://github.com/fanatII1/Music-Player.git
