@@ -43,7 +43,7 @@
                     <ChevronRight fillColor="#FFFFFF" :size="30" />
                 </button>
                 <button class="p-1 rounded-full mx-3 bg-white" ref="autoPlay" @click="useSong.playSpeechSong();">
-                        Select Song
+                        Play Song
                 </button>
             </div>
 
